@@ -1,0 +1,6 @@
+{
+  "updatedAt": "12/14/2022, 12:29:38 AM",
+  "BOARD_UNO_1": "/dev/tty.usbmodem143101",
+  "BOARD_UNO_2": "/dev/tty.usbmodem143401",
+  "BOARD_MEGA_1": "/dev/tty.usbmodem143201"
+}
